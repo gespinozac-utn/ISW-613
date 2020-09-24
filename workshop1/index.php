@@ -10,7 +10,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Workshop 1 IWS-613</title>
+    <title>Workshop 1 ISW-613</title>
     <STYLE>
         body{height: 50%; background-color:lightgrey;}
         h1{position: fixed; padding: 10px; left: 20px; top: 30px}

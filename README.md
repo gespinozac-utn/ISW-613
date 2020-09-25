@@ -17,3 +17,4 @@ III Cuatrimestre 2020.
 ### Tareas  
 - [ ] 1er trabajo de investagación.
 - [ ] Tarea invenstigación en grupos (tema: RAM).
+- [ ] Presentación semana 8 (Single Page Application) Daniel Solis-Gustavo Espinoza.

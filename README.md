@@ -9,6 +9,7 @@ III Cuatrimestre 2020.
 ## Lista de trabajos y tareas.  
 ### Workshops
 - [x] Create a php file that prints the current date and time.
+- [x] Create a PHP script which display the capital and country name from array and write a PHP script to calculate and display average temperature, five lowest and highest temperatures.
 
 ### Proyectos  
 - [ ] Proyecto 1.
@@ -16,5 +17,4 @@ III Cuatrimestre 2020.
 
 ### Tareas  
 - [ ] 1er trabajo de investagación.
-- [ ] Tarea invenstigación en grupos (tema: RAM).
 - [ ] Presentación semana 8 (Single Page Application) Daniel Solis-Gustavo Espinoza.

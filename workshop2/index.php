@@ -30,14 +30,14 @@
          for($i=0; $i<5;$i++){
             $lwTemp .= $temp[$i] . ', ';
          }
-         echo 'List of seven lowest temperatures: '. $lwTemp . '<br/>'. '<br/>';
+         echo 'List of five lowest temperatures: '. $lwTemp . '<br/>'. '<br/>';
 
          rsort($temp);
          for($i=0; $i<5;$i++){
             $hgTemp .= $temp[$i] . ', ';
          }
 
-        echo 'List of seven highest temperatures: '. $hgTemp . '<br/>'. '<br/>';
+        echo 'List of five highest temperatures: '. $hgTemp . '<br/>'. '<br/>';
     }
     temperatures();
 ?>

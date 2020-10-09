@@ -10,14 +10,11 @@ III Cuatrimestre 2020.
 ### Workshops
 - [x] Create a php file that prints the current date and time.
 - [x] Create a PHP script which display the capital and country name from array and write a PHP script to calculate and display average temperature, five lowest and highest temperatures.
-- [X] Usando el ejemplo visto en clase desarrolle las funciones para: Crear Categorias (Nombre, Descripción), Listar las Categorias.
-
-3. Eliminar una categoria.
+- [X] Usando el ejemplo visto en clase desarrolle las funciones para: Crear Categorias (Nombre, Descripción), Listar las Categorias y Eliminar una categoria.
 
 ### Proyectos  
 - [ ] Proyecto 1.
 - [ ] Proyecto 2.
 
-### Tareas  
-- [ ] 1er trabajo de investagación.
+### Tareas
 - [ ] Presentación semana 8 (Single Page Application) Daniel Solis-Gustavo Espinoza.

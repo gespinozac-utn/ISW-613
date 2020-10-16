@@ -14,7 +14,7 @@ III Cuatrimestre 2020.
 - [X] Workshop 4 - PHP Sessions
 
 ### Proyectos  
-- [ ] Proyecto 1.
+- [ ] Proyecto 1 [E-Shop](https://github.com/gespinozac-utn/ISW-613_Proyecto1).
 - [ ] Proyecto 2.
 
 ### Tareas

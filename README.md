@@ -12,7 +12,7 @@ III Cuatrimestre 2020.
 - [x] Create a PHP script which display the capital and country name from array and write a PHP script to calculate and display average temperature, five lowest and highest temperatures.
 - [X] Usando el ejemplo visto en clase desarrolle las funciones para: Crear Categorias (Nombre, Descripción), Listar las Categorias y Eliminar una categoria.
 - [X] Workshop 4 - PHP Sessions
-- [ ] CodeIgniter - Usando el ejemplo realizado en clase cree la funcion que permita realizar el registro y listado de usuarios (insert, list).
+- [X] CodeIgniter - Usando el ejemplo realizado en clase cree la funcion que permita realizar el registro y listado de usuarios (insert, list).
 
 ### Proyectos  
 - [ ] Proyecto 1 [E-Shop](https://github.com/gespinozac-utn/ISW-613_Proyecto1).

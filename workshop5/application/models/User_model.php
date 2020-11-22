@@ -3,9 +3,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
 class User_model extends CI_Model
 {
-
+    // $name, $username, $password
     public function add($name, $username, $password)
     {
+        // return($this->db->insert('user',$user))
         return ($this->db->query('INSERT INTO `user`(name,username,password) VALUES("' . $name . '", "' . $username . '", "' . $password . '")'));
     }
 

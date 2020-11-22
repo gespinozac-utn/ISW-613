@@ -44,7 +44,7 @@ class User extends CI_Controller
 			$username = $this->input->post('username');
 			$password = $this->input->post('password');
 			if ($this->User_model->add($name, $username, $password)) {
-				redirect(site_url('/'));
+				redirect(site_url('user/users'));
 			} else {
 				echo 'No se agrego';
 			}
